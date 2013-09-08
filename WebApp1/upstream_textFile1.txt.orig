@@ -1,0 +1,8 @@
+upstream 1
+<<<<<<< HEAD
+commit 1
+commit 2
+commit 3
+commit 4
+=======
+>>>>>>> 737ea44d80ef1cdbc34c8543ff32e0b5549f8213
